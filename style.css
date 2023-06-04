@@ -1,0 +1,77 @@
+body{
+    background: url(wal.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container{
+    background-color: #eef0f4;
+}
+
+div.col{
+    font-size: 30px;
+    color: black;
+}
+
+#list{
+    background-color: white;
+}
+
+#budget{
+    background-color: #eef0f4;
+    width: 24rem;
+    transform: translate(-467px, 0px);
+}
+
+button.btn.btn-primary{
+    padding: 10px 30px;
+    /* font-size: 20px; */
+    font-family: monospace;
+}
+
+div#list{
+    width: 75rem;
+    height: 8rem;
+}
+
+h2{
+    margin-left: 33rem;
+    text-decoration: underline;
+    font-weight: bold;
+}
+button#trans{
+    padding: 6px 22px;
+    background-color: green;
+    color: white;
+}
+
+#close{
+    font-size: 13px;
+    position: absolute;
+    left: 87rem;
+    bottom: 46rem;
+}
+
+#heading{
+    background: none;
+}
+
+i.fa.fa-shopping-cart{
+    padding: 0px 10px;
+    font-size: 25px;
+}
+
+i.fa.fa-balance-scale{
+    padding: 0px 10px;
+    font-size: 25px;
+}
+
+i.fa.fa-money{
+    padding: 0px 10px;
+    font-size: 25px;
+}
+
+button.btn-close{
+    left: 87rem;
+    position: absolute;
+    bottom: 46rem;
+}
